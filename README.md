@@ -1,7 +1,7 @@
 # GPT Astra — Agent Workflow Loop Engineering Auditor
 
 **Version:** 1.0  
-**Status:** Initial specification published; runtime audit not yet executed.
+**Status:** Specification created; runtime audit not verified.
 
 An evidence-first sub-agent specification for auditing GPT Astra's multi-step agent workflow engineering capabilities: planning, dependency DAGs, tool orchestration, specialist delegation, state management, checkpoint/recovery, retries, idempotency, cancellation, security, observability, and terminal-state correctness.
 
